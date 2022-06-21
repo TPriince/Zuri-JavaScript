@@ -1,1 +1,1 @@
-# Zuri-JavaScript
+# Repository for submission of JavaScript tasks
