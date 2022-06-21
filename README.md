@@ -1,1 +1,1 @@
-# Repository for submission of JavaScript tasks
+# Repository for the Basic arithmetic calculator task
